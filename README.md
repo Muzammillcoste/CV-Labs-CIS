@@ -21,7 +21,9 @@ git clone https://github.com/Muzammillcoste/CV-Labs-CIS.git
 
 3. Navigate to the cloned repository:
 
-    ``` cd CV-Labs-CIS  ```
+``` 
+cd CV-Labs-CIS 
+```
 
 ## Contributions
 
